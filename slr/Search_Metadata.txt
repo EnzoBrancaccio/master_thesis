@@ -1,0 +1,35 @@
+Search string: ("feature model" OR "feature models" OR "feature modeling" OR "feature modelling") AND ("product line" OR "product lines" OR "product family") AND (analy* OR evaluat* OR solver OR benchmark* OR configura* OR sampl* OR anomal* OR tool*)
+
+Date: 2022.05.11-.07.13
+Database: IEEE Xplore
+Access: Ulm University (VPN)
+Search: Default (Metadata)
+Order: Oldest first
+Range: 2002-2022
+287 Results
+
+Date: 2022.05.18-.07.13
+Database: Web of Science
+Access: Ulm University (VPN)
+Search: Default, -IEEE, -ACM, -Springer
+Order: Oldest first
+Range: 2000-2022
+180 Results (before: 661)
+
+Date: 2022.05.25-.07.13
+Database: ACM DL
+Access: Ulm University (VPN)
+Search: Default
+Order: Oldest first (Earliest)
+Range: 1993-2022
+1668 Results
+
+Date: 2022.06.22-.07.13
+Database: SpringerLink
+Access: Ulm University (VPN)
+Search: Default, exclude Preview-only content
+Order: Oldest first
+Range: 1995-2022
+1256 Results
+
+16:00

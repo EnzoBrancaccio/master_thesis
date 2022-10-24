@@ -1,0 +1,85 @@
+Notes on special solvers (slr_papers numbers):
+
+7) SMV
+SMV Model Checker to verify CSPs
+
+9) CBMC
+a SAT-based source code bounded model checker for C
+E. Clarke, D. Kroening, and F. Lerda. A tool for checking ANSI-C programs. In TACAS, volume 2988 of LNCS, pages 168–176. Springer, 2004
+
+25) clp(FD)
+library module for SICStus Prolog
+
+36) Alloy Analyzer
+Alcoa comes with a suite of public domain SAT solvers
+
+41) Alloy Analyzer with MiniSat
+Alloy Analyzer was configured to use MiniSat as a solver.
+
+44) Pacogen
+constraint solver
+
+45) Alloy Analzyer, MiniSat
+MiniSat only mentioned in Threats to Validity (p. 146)
+
+50) Alloy Analyzer
+and we can use it with different off-the-shelf SAT solvers.
+
+51) SAT Solver
+The Alloy module is analyzed using a SAT solver
+After the transformation, the Alloy module is analyzed using the APIs of Alloy Analyzer
+
+52) SPLOT tool
+This information can be obtained using the feature model analyzer provided by the SPLOT tool
+
+67) Alloy Analyzer
+we use Alloy because it easily work with any different SAT solver, independently of a specific implementation.
+
+77) AllSat, MiniSat
+We have implemented an ALLSAT using the blocking algorithm ... by extending MiniSAT
+
+81) SPASS
+generalized first-order theorem prover
+
+163) SAT Solver
+which is then given to a SAT solver, e.g., as provided by the feature modeling tool FAMILIAR
+Not explicitly saying they used the FAMILIAR SAT Solver
+
+296) Plingeling
+multi-threaded version of Lingeling using Pthreads
+
+309) VSAT
+variational solver in the Haskell programming language
+
+331) SAT Solver
+referring to slr_paper: 388 with Sat4J 2.2 and probSAT 
+-> used for solver statistics but doesn't change that 331 didn't mention them
+
+333) Uppaal
+Our tool performs TA construction as well as static analysis and dynamic analysis with Uppaal automatically on the given input models.
+
+376) randomized Sat4J
+modified version from C. Henard, M. Papadakis, G. Perrouin, J. Klein, P. Heymans, and Y. Le Traon, “Bypassing the combinatorial explosion: Using similarity to generate and prioritize t-wise test configurations for software product lines,” IEEE Trans. Softw. Eng., vol. 40, no. 7, pp. 650–670, Jul. 2014.
+
+For solver statistics, solver versions are ignored. This also affects
+MiniSat:
+- MiniSat+
+- CryptoMiniSat (Soos et al. 2009)
+
+SPASS:
+- SPASS 3.7
+- SPASS-SATT
+
+lingeling:
+- Plingeling
+
+Sat4J:
+- randomized Sat4J
+- modified Sat4J
+
+WalkSAT:
+- fast WalkSAT
+
+March:
+- March_ks
+- March_rw
